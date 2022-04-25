@@ -1,3 +1,6 @@
 Name: Tara Henechowicz
+Affiliation: Music and Health Science Research Collaboratory
 Program: PhD in Music 
 Research Area: Music and Genetics and lots of other cool topics! Whatever data I can get a hold of!
+Programming Languages: R, python, Git
+
